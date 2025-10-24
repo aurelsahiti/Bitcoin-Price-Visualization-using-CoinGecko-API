@@ -95,7 +95,7 @@ The resulting file is an interactive candlestick chart viewable in any browser.
 ## Visualization Example
 
 <p align="center">
-  <img src="images/newplot.png" width="400"/>
+  <img src="images/newplot.png" width="800"/>
 </p>
 
 ---
